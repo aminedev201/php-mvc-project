@@ -1,3 +1,4 @@
+# test line
 # This repository is made for the source code of any lecture for our PHP MVC course
 
 ## If you haven't checked out the course yet, check it now!.. It's totally free ^^
